@@ -1,6 +1,7 @@
 # Telegram群组推荐
 
-Telegram电报中文包 tg://setlanguage?lang=zhcncc 复制到电报打开
+Telegram电报中文包
 
-搜索
+tg://setlanguage?lang=zhcncc 
+
 
